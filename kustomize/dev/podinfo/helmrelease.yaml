@@ -6,7 +6,7 @@ kind: HelmRelease
 metadata:
   annotations:
     fluxcd.io/automated: "true"
-    filter.fluxcd.io/chart-image: semver:~4.0
+    filter.fluxcd.io/chart-image: semver:~5.0
   name: podinfo
   namespace: podinfo
 spec:
