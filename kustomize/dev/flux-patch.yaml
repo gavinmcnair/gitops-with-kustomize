@@ -7,4 +7,4 @@ metadata:
 spec:
   values:
     image:
-      tag: 4.0.6
+      tag: 5.0.3
